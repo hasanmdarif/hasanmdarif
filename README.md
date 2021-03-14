@@ -1,6 +1,6 @@
 ### Hi there, I'm Arif👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasanmdarif.github.io)
+[![Website](https://img.shields.io/website?label=Arif Hasan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasanmdarif.github.io)
 
 ## I'm a student, learner and developer!!
 
@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hasanmdarif&show_icons=true&hide_border=true" />
+  <img align="left" alt="Arif's GitHub Stats" src="https://github-readme-stats.hasanmdarif.vercel.app/api?username=hasanmdarif&show_icons=true&hide_border=true" />
 
 </details>
 
