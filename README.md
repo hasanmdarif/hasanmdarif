@@ -1,6 +1,6 @@
 ### Hi there, I'm Arif👋
 
-[![Website](https://img.shields.io/website?label=Arif Hasan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasanmdarif.github.io)
+[![Website](https://img.shields.io/website?label=ArifHasan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasanmdarif.github.io)
 
 ## I'm a student, learner and developer!!
 
