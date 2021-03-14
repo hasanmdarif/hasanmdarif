@@ -1,6 +1,5 @@
-### Hi there, I'm Arif👋
+##### Hi there, I'm Arif👋
 
-[![Website](https://img.shields.io/website?label=ArifHasan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasanmdarif.github.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmdarif&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmdarif" /> </p>
 
