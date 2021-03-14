@@ -5,8 +5,8 @@
 ## I'm a student, learner and developer!!
 
 - 🔭 I'm looking for career in software industry 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything 
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Arif's GitHub Stats" src="https://github-readme-stats.hasanmdarif.vercel.app/api?username=hasanmdarif&show_icons=true&hide_border=true" />
+  <img align="left" alt="hasanmdarif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hasanmdarif&show_icons=true&hide_border=true" />
 
 </details>
 
