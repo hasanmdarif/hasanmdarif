@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanmdarif" alt="hasanmdarif" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arifhasan01" target="blank"><img src="https://img.shields.io/twitter/follow/arifhasan01?logo=twitter&style=for-the-badge" alt="arifhasan01" /></a> </p>
 
 ## About me
 As an Associate Software Developer with 1 year of experience, I have honed my skills in a variety of programming languages and software tools. My expertise includes proficiency in Python, Flask, Celery, SQLalchemy, Django, Postgres, Redis, Linux, Git/GitHub, MongoDB as well the basics of Kubernetes and Docker. I am passionate about continuously expanding my knowledge and capabilities in these areas, and I am committed to staying up-to-date with the latest trends and advancements in the field.
