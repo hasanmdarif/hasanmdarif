@@ -7,11 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/arifhasan01" target="blank"><img src="https://img.shields.io/twitter/follow/arifhasan01?logo=twitter&style=for-the-badge" alt="arifhasan01" /></a> </p>
 
-## I'm a student, learner and developer!!
+## About me
+As an Associate Software Developer with 1 year of experience, I have honed my skills in a variety of programming languages and software tools. My expertise includes proficiency in Python, Flask, Celery, SQLalchemy, Django, Postgres, Redis, Linux, Git/GitHub, MongoDB as well the basics of Kubernetes and Docker. I am passionate about continuously expanding my knowledge and capabilities in these areas, and I am committed to staying up-to-date with the latest trends and advancements in the field.
 
-- 🔭 I'm looking for career in software industry 
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+I am proud to say that my contributions to the team have not gone unnoticed, and I have been awarded the Rockstar Rookie Award for my exceptional performance. This recognition has inspired me to continue working hard and pushing the boundaries of what is possible.
+
+I am excited to bring my skills and enthusiasm to any potential opportunities, and I look forward to collaborating with like-minded individuals and organizations. Let's build something great together!
 
 
 ### Connect with me:
